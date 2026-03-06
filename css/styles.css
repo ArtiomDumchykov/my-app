@@ -61,3 +61,22 @@ body {
     display: block;
 }  */
 
+/* @media (max-width: 600px) {
+    body {
+        background-color: red;
+    }
+
+    .quiz__list {
+        background-color: aqua;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        background-color: #00ff4c;
+    }
+
+    .quiz__list {
+        background-color: #daa20a;
+    }
+} */
